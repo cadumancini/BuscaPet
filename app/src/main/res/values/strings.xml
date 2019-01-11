@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">BuscaPet</string>
+    <string name="app_name" translatable="false">BuscaPet</string>
+    <!-- Telas -->
+    <string name="perdi_meu_pet" translatable="false">Perdi meu Pet</string>
+    <string name="encontrei_um_pet" translatable="false">Encontrei um Pet</string>
+    <string name="acompanhar_meu_pet_perdido" translatable="false">Acompanhar meu Pet perdido</string>
+    <string name="ver_pets_perdidos_regiao" translatable="false">Ver Pets perdidos pela região</string>
+    <string name="ver_pets_encontrados_regiao" translatable="false">Ver Pets encontrados na região</string>
+    <string name="cadasrar_meu_pet" translatable="false">Cadastrar meu Pet</string>
+
+    <!-- Menu -->
+    <string name="menu_configuracoes" translatable="false">Configurações</string>
 </resources>
