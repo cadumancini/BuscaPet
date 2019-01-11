@@ -27,7 +27,6 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.cadumancini.buscapet.MainActivity" />
         </activity>
-
         <activity
             android:name=".EncontreiUmPet"
             android:label="@string/encontrei_um_pet"
@@ -37,6 +36,46 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.cadumancini.buscapet.MainActivity" />
         </activity>
+        <activity
+            android:name=".AcompanharMeuPetPerdido"
+            android:label="@string/acompanhar_meu_pet_perdido"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cadumancini.buscapet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".VerPetsPerdidosRegiao"
+            android:label="@string/ver_pets_perdidos_regiao"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cadumancini.buscapet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".VerPetsEncontradosRegiao"
+            android:label="@string/ver_pets_encontrados_regiao"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cadumancini.buscapet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".CadastrarMeuPet"
+            android:label="@string/cadasrar_meu_pet"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.cadumancini.buscapet.MainActivity" />
+        </activity>
+        <activity
+            android:name=".Configuracoes"
+            android:label="@string/title_activity_configuracoes"
+            android:screenOrientation="portrait"></activity>
     </application>
 
 </manifest>
