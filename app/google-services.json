@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "183987788385",
+    "firebase_url": "https://buscapet-cadumancini.firebaseio.com",
+    "project_id": "buscapet-cadumancini",
+    "storage_bucket": "buscapet-cadumancini.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:183987788385:android:90d38e6ce99fad42",
+        "android_client_info": {
+          "package_name": "com.cadumancini.buscapet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "183987788385-3ohqjdkkvu2ik18d3s1jp1k031k01ldo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cadumancini.buscapet",
+            "certificate_hash": "2d1b3c76975edb44a9feb7b6bc30f8403c645351"
+          }
+        },
+        {
+          "client_id": "183987788385-ai50r6k10kqhmma6e3pc09s17mftsvdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgdnsPyAH4snQK2jBLsba0i9w8hVGw5VA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "183987788385-ai50r6k10kqhmma6e3pc09s17mftsvdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
