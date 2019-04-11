@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="especies_array">
+        <item>Cachorro</item>
+        <item>Gato</item>
+    </string-array>
+    <string-array name="coresPredom_array">
+        <item>Branco</item>
+        <item>Preto</item>
+        <item>Cinza</item>
+        <item>Dourado</item>
+        <item>Chocolate</item>
+        <item>Creme</item>
+        <item>Amarelo</item>
+    </string-array>
+    <string-array name="coresSecund_array">
+        <item>Nenhuma</item>
+        <item>Branco</item>
+        <item>Preto</item>
+        <item>Cinza</item>
+        <item>Dourado</item>
+        <item>Chocolate</item>
+        <item>Creme</item>
+        <item>Amarelo</item>
+    </string-array>
+    <string-array name="porte_array">
+        <item>Pequeno</item>
+        <item>Médio</item>
+        <item>Grande</item>
+    </string-array>
+</resources>
