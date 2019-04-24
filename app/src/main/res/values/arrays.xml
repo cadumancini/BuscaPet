@@ -28,4 +28,9 @@
         <item>Médio</item>
         <item>Grande</item>
     </string-array>
+    <string-array name="ageUnit_array">
+        <item>Dias</item>
+        <item>Meses</item>
+        <item>Anos</item>
+    </string-array>
 </resources>
